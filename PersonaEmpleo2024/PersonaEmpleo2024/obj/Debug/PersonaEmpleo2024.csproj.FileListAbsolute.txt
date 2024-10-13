@@ -1,0 +1,7 @@
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\bin\Debug\PersonaEmpleo2024.exe.config
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\bin\Debug\PersonaEmpleo2024.exe
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\bin\Debug\PersonaEmpleo2024.pdb
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\obj\Debug\PersonaEmpleo2024.csproj.AssemblyReference.cache
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\obj\Debug\PersonaEmpleo2024.csproj.CoreCompileInputs.cache
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\obj\Debug\PersonaEmpleo2024.exe
+C:\Users\papor\source\repos\PersonaEmpleo2024\PersonaEmpleo2024\obj\Debug\PersonaEmpleo2024.pdb

@@ -1,0 +1,7 @@
+C:\Users\papor\source\repos\Banco2024\Banco2024\obj\Debug\Banco2024.csproj.AssemblyReference.cache
+C:\Users\papor\source\repos\Banco2024\Banco2024\obj\Debug\Banco2024.csproj.CoreCompileInputs.cache
+C:\Users\papor\source\repos\Banco2024\Banco2024\bin\Debug\Banco2024.exe.config
+C:\Users\papor\source\repos\Banco2024\Banco2024\bin\Debug\Banco2024.exe
+C:\Users\papor\source\repos\Banco2024\Banco2024\bin\Debug\Banco2024.pdb
+C:\Users\papor\source\repos\Banco2024\Banco2024\obj\Debug\Banco2024.exe
+C:\Users\papor\source\repos\Banco2024\Banco2024\obj\Debug\Banco2024.pdb
