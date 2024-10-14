@@ -1,0 +1,7 @@
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\bin\Debug\Billetes2024.exe.config
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\bin\Debug\Billetes2024.exe
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\bin\Debug\Billetes2024.pdb
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\obj\Debug\Billetes2024.csproj.AssemblyReference.cache
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\obj\Debug\Billetes2024.csproj.CoreCompileInputs.cache
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\obj\Debug\Billetes2024.exe
+C:\Users\papor\source\repos\Billetes2024\Billetes2024\obj\Debug\Billetes2024.pdb
