@@ -1,0 +1,7 @@
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\bin\Debug\Puntaje2.exe.config
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\bin\Debug\Puntaje2.exe
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\bin\Debug\Puntaje2.pdb
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\obj\Debug\Puntaje2.csproj.AssemblyReference.cache
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\obj\Debug\Puntaje2.csproj.CoreCompileInputs.cache
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\obj\Debug\Puntaje2.exe
+C:\Users\papor\source\repos\Puntaje2\Puntaje2\obj\Debug\Puntaje2.pdb
